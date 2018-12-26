@@ -1,0 +1,8 @@
+{
+  "name": "angular-cli-electron",
+  "productName": "RVSTC Dashboard",
+  "version": "0.0.0",
+  "description": "RVSTC Dashboard",
+  "main": "electron.prod.js",
+  "license": "MIT"
+}
